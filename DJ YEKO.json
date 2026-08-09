@@ -1,15 +1,19 @@
 [
     {
         "device_id": "device123",
-        "username": "username",
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "device123",
-        "username": "username",
+        "device123", "device123",
         "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device123", "402e8a7786d3612e",
+        "key": "yeko2026",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     
